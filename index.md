@@ -45,7 +45,6 @@ QingDao
 ## Employment History
 ### **Senior Software Engineer at DellEMC**  `2021.8 - `
 - Work in Dell VSA(virtual storage appliancestorage team
-- Main work is:
 - Main develop language is **C++ python bash perl**
 
 ### **Senior Software Engineer at Baidu**  `2020.9 - 2021.5`
