@@ -20,7 +20,7 @@ Supported arguments:
 
 ## Profile
 - I have over five years C/C++ development experience. I am very familiar with STL/C++11/c++17 feature and other C++ stuff. Besides C++ I also experienced with some scripts languages( eg. linux shell,Python and nodejs).
-- Personally,I am very interested in some low level computer stuff,like compiler and VM. I also have written a toy C complier with C++ in my spare time,(https://github.com/chengchenwish/Yan) which wrote from-scratch. I have implemented most of C98's feature except C language's pre-proccess. 
+- Personally,I am very interested in some low level computer stuff,like compiler and VM. I also have written a toy C complier with C++ in my spare time,(https://github.com/xyanrch/Yan) which wrote from-scratch. I have implemented most of C98's feature except C language's pre-proccess. I also have a very popular repo in github called overplus(https://github.com/xyanrch/overplus).
 - I'm also very passional in open soruce project, I also contributed my patch to SerenityOS's javascripts engine, SerenityOS is a posix like OS and has a win95's GUI.
 
 ## Education
@@ -43,6 +43,10 @@ QingDao
 - Bachelor of Engineering. in Computer Science
 
 ## Employment History
+### **Senior Software Engineer at DellEMC**  `2021.8 - `
+- Work in Dell VSA(virtual storage appliancestorage team
+- Main work is:
+- Main develop language is **C++ python bash perl**
 
 ### **Senior Software Engineer at Baidu**  `2020.9 - 2021.5`
 - Work in Baidu input method core team
